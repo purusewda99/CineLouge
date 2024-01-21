@@ -12,7 +12,7 @@ CineLounge is an API for a movie lobby for OTT applications, built with Node.js,
 
 1. Clone the repository: git clone repository-url
 2. Install dependencies: npm install
-3. Set up your `.env` file based on the `.env.example`.
+3. Set up your `.env` file based on the provided `.env`.
 4. Start the server: npm start
 
 ## API Endpoints
