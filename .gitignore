@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+# Production build directory
+/dist
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
