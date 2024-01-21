@@ -37,9 +37,11 @@ Our repository includes a Postman collection that makes it easy to test and inte
 
 2. **Clone the Repository**: If you haven't already, clone the CineLounge repository to your local machine.
 
-3. **Locate the Postman Collection File**: Inside the cloned repository, you will find a Postman collection JSON file (e.g., `CineLounge.postman_collection.json`).
+3. **Locate the Postman Collection File**: Inside the cloned repository, you will find a Postman collection JSON file (`CineLounge.postman_collection.json`).
 
-4. **Import the Collection into Postman**:
+4. **Locate the API Document File**: Inside the cloned repository, you will find a API Document file ( `API REQUESTS OF POSTMAN COLLECTION.docx` ) which would contain information about API requests and it will also help in testing via Postman Collection.
+
+5. **Import the Collection into Postman**:
 - Open Postman.
 - Click on the `Import` button in the top left corner.
 - Drag and drop the Postman collection JSON file into the import window, or use the `Upload Files` option to select the file from your file system.
